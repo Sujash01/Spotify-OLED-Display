@@ -35,10 +35,6 @@ A standalone Spotify Now Playing display built using an ESP32 DevKit V1 and a 1.
 | SDA  | GPIO21 |
 | SCL  | GPIO22 |
 
-## Screenshots
-
-Add photos of the OLED here.
-
 ## License
 
 MIT
