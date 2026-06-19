@@ -1,1 +1,9 @@
 secrets.h
+
+*.ino.bin
+*.elf
+
+**pycache**/
+.cache
+
+.vscode/
